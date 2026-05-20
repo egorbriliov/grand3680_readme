@@ -25,9 +25,7 @@
 - ---
 ###
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=grand3680&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grand3680&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![Top stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=grand3680&theme=dark)
+![Top laguage by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=grand3680&theme=dark)
 
 ###
